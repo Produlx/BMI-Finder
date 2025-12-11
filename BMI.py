@@ -6,6 +6,7 @@ H = float(input("Type your height(M): "))
 
 BMI  = W/H
 
+print("")
 print(f"weight {W} / Height {H} = BMI {BMI}"  )
 
 '''BMI = float(input())'''
